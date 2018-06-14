@@ -6,13 +6,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Tabla de Amortización</title>
         <!--CSS-->
-        <link href="../blob/master/css/dataTables.bootstrap.css" rel="stylesheet">
-        <link href="../blob/master/css/sb-admin-2.css" rel="stylesheet">
+        <link href="../master/css/dataTables.bootstrap.css" rel="stylesheet">
+        <link href="../master/css/sb-admin-2.css" rel="stylesheet">
         <!--JS-->
-        <script src="../blob/master/js/API/jquery-3.2.1.min.js"></script>
-        <script src="../blob/master/js/ACCIONES/accionesWeb.js"></script>
-        <script src="../blob/master/js/API/jquery.PrintArea.js"></script>
-		<script src="../blob/master/js/API/jquery.number.js"></script>
+        <script src="../master/js/API/jquery-3.2.1.min.js"></script>
+        <script src="../master/js/ACCIONES/accionesWeb.js"></script>
+        <script src="../master/js/API/jquery.PrintArea.js"></script>
+		<script src="../master/js/API/jquery.number.js"></script>
 	</head>
     <body>
         <div id="page-wrapper">
