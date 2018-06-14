@@ -23,7 +23,7 @@
 				    <div class="col-sm-4">
                     <h3>Nombre</h3>
                     <input type="text" class="form-control">
-                    <h3>Tipo de Identificación</h3>
+                    <a href="../blob/master/js/API/jquery.number.js"><h3>Tipo de Identificación</h3></a>
                     <select class="form-control" id="cedula">
                         <option>Cedula de Ciudadania</option>
                         <option>Cedula de Extrangeria</option>
